@@ -15,7 +15,7 @@
 </h2>
 
 ## Contacts
-[Moon Discord](https://discord.gg/)
+[Moon Discord](https://discord.gg/9gFABDVsP3)
 <br/>
 [Offical Vape Youtube](https://youtube.com/c/7GrandDadVape)
 
