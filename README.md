@@ -1,5 +1,5 @@
 > [!WARNING]
-> Vape is discontinued, this page will now be held as an archive of my work more then anything.
+> The Real Vape V4 is discontinued, this is a remake.
 
 <p align="center">
   <picture>
@@ -15,15 +15,15 @@
 </h2>
 
 ## Contacts
-[Discord](https://discord.gg/ZqS836yx9k)
+[Moon Discord](https://discord.gg/)
 <br/>
-[Youtube](https://youtube.com/c/7GrandDadVape)
+[Offical Vape Youtube](https://youtube.com/c/7GrandDadVape)
 
 ## Usage
 1. Download the specific scripting utility of your choice.
 2. Execute the provided loadstring below.
 ```luau
-loadstring(game:HttpGet("https://raw.githubusercontent.com/7GrandDadPGN/VapeV4ForRoblox/main/NewMainScript.lua", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/pasteisback/FixedVapeV4RBX/main/NewMainScript.lua", true))()
 ```
 
 ## Possible Issues
@@ -34,12 +34,13 @@ Half of the time its usually the scripting utility at fault, please make sure th
 ### User Issues
 If its not the supposed utility at fault, please try some troubleshooting steps.
 1. Deleting the newvape folder (WITH THE GAME CLOSED).
-2. Making sure you have connection to [the main loadstring.](https://raw.githubusercontent.com/7GrandDadPGN/VapeV4ForRoblox/refs/heads/main/NewMainScript.lua)
+2. Making sure you have connection to [the main loadstring.](https://raw.githubusercontent.com/pasteisback/FixedVapeV4RBX/refs/heads/main/NewMainScript.lua)
 3. Ensuring no external script is conflicting with vape.
 
 ## Developers & Credits
 [7GrandDad](https://github.com/7GrandDadPGN) - Lead maintainer of the project - vaperoblox on Discord
 <br/>
+[SprayingCactus](https://github.com/pasteisback) - Remade Vape V$
 [rce-incorporated](https://github.com/rce-incorporated/Fiu) - Luau bytecode disassembly with modifications
 <br/>
 [Egor Skriptunoff, boatbomber, and howmanysmall](https://devforum.roblox.com/t/open-source-hashlib/416732/1) - HashLibrary for Luau
