@@ -26,6 +26,11 @@
 loadstring(game:HttpGet("https://raw.githubusercontent.com/pasteisback/FixedVapeV4RBX/main/NewMainScript.lua", true))()
 ```
 
+## Working Games (for right now)
+1. Bedwars
+2. Universal
+
+
 ## Possible Issues
 Half of the time its usually the scripting utility at fault, please make sure the utility meets certain quality standards such as.
 1. Supporting file functions & the debug library.
