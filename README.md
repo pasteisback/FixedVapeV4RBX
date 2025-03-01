@@ -21,7 +21,7 @@
 1. Download one of the executors listed or a different unknown support one
 2. Execute the following code
 ```luau
-loadstring(game:HttpGet("https://raw.githubusercontent.com/pasteisback/uoihiubhpibgp/main/NewMainScript.lua", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/pasteisback/FixedVapeV4RBX/main/NewMainScript.lua", true))()
 ```
 
 ## Working Games (for right now)
